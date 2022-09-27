@@ -1,2 +1,2 @@
 # Hello-world
-First Unity projects
+First Unity project
